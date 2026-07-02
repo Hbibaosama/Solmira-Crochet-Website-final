@@ -1,0 +1,146 @@
+body{
+    font-family: italic;
+background-color: white;
+}
+.habiba{
+background-color: rgb(232, 220, 223);
+border: solid;
+border-color:#482929;
+text-align: left;
+font-style: italic;
+border-radius: 80px;
+border-width: 5px;
+text-align: center;
+padding: 5px;
+}
+.habiba a{
+    color: rgb(176, 106, 112);
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.br{
+    text-align: left;
+    padding: 7px;
+    font-size: 40px;
+    color: rgb(176, 106, 112);
+    text-align: center;
+}
+.df{
+display:flex;
+justify-content: space-between;
+}
+p{
+color:#482929;
+font-size: 2em;
+text-align:center ;
+font-style: italic;
+margin-bottom: 7px;
+}
+form {
+    color:rgb(176, 106, 112);
+    text-align: center ;
+    font-size: 15px;
+    font-style: italic;
+    display:inline-block;
+    padding:7px;
+    margin-top: 45px;
+    border-bottom: 40px ;
+    border:solid ;
+    border-radius: 70px;
+    border-color:#482929;
+    border-width: 5px;
+    background-color:  rgb(240, 227, 230);
+    width: 230px;
+} 
+#two{
+    color: rgb(176, 106, 112);
+    font-size: 45px;
+}
+.card{
+width: 200px;
+align-items:center;
+}
+.card img{
+ width: 150%;
+ height:auto;
+}
+.cont{
+    display:flex;
+    align-items: center;
+    gap: 200px;
+    justify-content:center;
+    margin: 10px;
+}
+#d{
+    font-size:x-large larger;
+}
+.b{
+    border-radius: 20px;
+    border: 1px solid;
+    padding: 3px;
+    width: 130px;
+}
+.h{
+    border-radius: 20px;
+    border: 1px solid;
+    padding: 3px;
+    width: 130px;
+}
+.k{
+    border-radius: 20px;
+    border: 1px solid;
+    padding: 3px 25px 3px 5px; 
+    width: 130px;
+    box-sizing: border-box; 
+    outline: none;
+}
+.f{
+    border-radius: 20px;
+border: 1px solid;
+padding: 3px;
+width: 130px;
+}
+.rr{text-decoration: none;
+color: #482929;}
+
+.w{width: 80px;
+    font-size: 20px;
+    border-radius: 200px;
+    border: solid;
+    color: #482929;
+    border-color:   rgb(232, 220, 223);
+    background-color: rgb(248, 246, 247);}
+.ss{
+align-items: center;
+}
+
+.password-container {
+    position: relative;
+    display: inline-block;
+    width: 130px;
+}
+
+.eye-icon {
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-size: 16px; 
+    color: #482929; 
+    user-select: none;
+    opacity: 0.7; 
+    transition: opacity 0.2s;
+}
+
+.eye-icon:hover {
+    opacity: 1;
+}
+.ss .b,
+.ss .f,
+.ss .h,
+.ss .k, .w{
+    display: inline-block; 
+    transition: transform 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}

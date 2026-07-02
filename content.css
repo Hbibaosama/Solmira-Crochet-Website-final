@@ -1,0 +1,129 @@
+body{ 
+font-style: italic;
+background-color: rgb(249, 248, 247);
+}
+.habiba{
+background-color: rgb(232, 220, 223);
+border: solid;
+border-color:#482929;
+text-align: left;
+font-style: italic;
+border-radius: 80px;
+border-width: 5px;
+text-align: center;
+display:flex;
+justify-content: space-between;
+padding: 5px;
+}
+.habiba a{
+    color: rgb(176, 106, 112);
+    padding: 10px;
+    font-size:20px;
+    text-decoration: none;
+}
+.br{
+    text-align: left;
+    padding: 1px;
+    font-size: 30px;
+    color: rgb(176, 106, 112);
+}
+.df{
+display:flex;
+justify-content: space-between;
+}
+
+.first{
+ text-align: center;
+
+}
+.second{
+color:#482929 ;
+font-size: 15px;
+}
+.third{
+color:#803939 ;
+font-size: 24px;
+}
+.forth{
+color:#482929 ;
+font-size: 17px;
+}
+.gmail{
+    font-size: 15px;
+     color: rgb(176, 106, 112);
+background-color: rgb(255, 255, 255);
+width: 250px;
+padding: 10px;
+border: solid;
+border-radius: 50px;
+border-color: #482929;
+margin: 20px auto;
+text-align: center;
+height: 100px;
+font-style: italic;
+}
+.insta{
+    font-size: 15px;
+     color: rgb(176, 106, 112);
+background-color: rgb(255, 255, 255);
+width: 250px;
+padding: 10px;
+border: solid;
+border-radius: 50px;
+border-color: #482929;
+text-align: center;
+font-style: italic;
+height: 100px;
+}
+.facebook{
+    font-size: 15px;
+     color: rgb(176, 106, 112);
+    background-color: rgb(255, 255, 255);
+width: 250px;
+padding: 10px;
+border: solid;
+border-radius: 50px;
+border-color: #482929;
+text-align: center;
+font-style: italic;
+height: 100px;
+}
+.two{
+display:flex;
+justify-content: space-evenly;
+}
+.phone{
+    font-size: 15px;
+ color: rgb(249, 249, 249);
+background-color: #482929;
+width: 500px;
+padding: 10px;
+height: 100px;
+border: solid;
+border-radius: 50px;
+border-color: #482929;
+margin: 20px auto;
+text-align: center;
+font-style: italic;
+}
+#a{
+    color:rgb(249, 249, 249) ;
+    font-size: 13px;
+}
+#s{
+    color: #482929;
+    font-size: 13px;
+}
+#d{
+color: #482929;
+font-size: 13px;
+}
+#f{
+    color: #482929;
+    font-size: 13px;
+}
+.habiba .br, 
+.habiba .df a{
+    display: inline-block; 
+    transition: transform 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}
