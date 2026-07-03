@@ -1,0 +1,149 @@
+body{ 
+font-style: italic;
+background-color: rgb(249, 248, 247);
+}
+.habiba{
+background-color: rgb(232, 220, 223);
+border: solid;
+border-color:#482929;
+text-align: left;
+font-style: italic;
+border-radius: 80px;
+border-width: 5px;
+text-align: center;
+display:flex;
+justify-content: space-between;
+padding: 5px;
+}
+.habiba a{
+    color: rgb(176, 106, 112);
+    padding: 10px;
+    font-size:20px;
+    text-decoration: none;
+}
+.br{
+    text-align:left;
+    padding: 3px;
+    font-size: 30px;
+    color: rgb(176, 106, 112);
+}
+.df{
+display:flex;
+justify-content: space-between;
+}
+.mid{
+    text-align: center;
+}
+.a{
+font-size: 35px;
+color: #482929;
+font-weight: 100;
+}
+.b{
+font-size: 25px;
+color: #482929;
+}
+.al{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.sed{
+    align-items: center;
+text-align: center;
+    border: solid;
+    font-size: 16px;
+    width: 400px;
+    border-radius: 40px;
+    border-color: rgb(176, 106, 112);
+    background-color: rgb(249, 240, 243);
+}
+.q{
+    color: #482929;
+    font-size: 20px;
+}
+.w{
+    color: #482929;
+}
+.se{
+    align-items: center;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+text-align: center;
+    border: solid;
+    width: 500px;
+    border-radius: 40px;
+    border-color: rgb(176, 106, 112);
+    background-color: rgb(245, 245, 245);
+}
+.x{
+    color: #482929;
+    font-size: 17px;
+}
+.z{
+font-weight: 200;
+color: #482929;
+font-size: 20px;
+margin: 0px;
+margin-bottom: 5px;
+}
+.v{
+color: #482929;
+margin: 0px;
+margin-bottom: 5px;
+}
+.re{
+    border: solid;
+color: aliceblue;
+    border-radius: 40px;
+    border-color: #482929;
+    background-color: #482929;
+    text-decoration: none;
+    }
+.er{
+    margin-top: 30px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+text-align: center;
+    border: solid;
+    width: 300px;
+color: aliceblue;
+    border-radius: 40px;
+    border-color: #482929;
+    background-color: #482929;
+}
+.bott{
+    align-items: center;
+    margin-top: 20px;
+    margin-left: auto;
+   margin-right: auto;
+}
+.sum{
+    display: flex;
+    gap: 10%;
+    justify-content: space-evenly;
+
+}
+.d{
+ align-items: center;
+text-align: center;
+    border: solid;
+    width: 400px;
+    border-radius: 40px;
+    border-color: rgb(176, 106, 112);
+    background-color: rgb(249, 240, 243);
+font-size: 16px;
+color: #482929;
+}
+.k{
+color: #482929;
+}
+.habiba .br, 
+.habiba .df a, 
+.habiba .df .w {
+    display: inline-block; 
+    transition: transform 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}

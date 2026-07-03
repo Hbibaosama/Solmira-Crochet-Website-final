@@ -1,0 +1,249 @@
+body{ 
+font-style: italic;
+background-color: rgb(249, 248, 247);
+}
+.habiba{
+background-color: rgb(232, 220, 223);
+border: solid;
+border-color:#482929;
+font-size: 100px;
+text-align: left;
+font-style: italic;
+border-radius: 80px;
+padding: 5px;
+border-width: 5px;
+text-align: center;
+display:flex;
+justify-content: space-between;
+}
+.habiba a{
+    color: rgb(176, 106, 112);
+    padding: 10px;
+    font-size:30px;
+    text-decoration: none;
+}
+.br{
+    text-align:left;
+    padding: 3px;
+    font-size: 40px;
+    color: rgb(176, 106, 112);
+}
+.df{
+display:flex;
+justify-content: space-between;
+}
+.pf{
+    border: solid;
+    display: inline-flex;
+    border-radius: 80px;
+    border-color: rgb(176, 106, 112);
+    width: 350px;
+    height: 500px;
+    padding: 20px;
+
+}
+.pf img{
+    border: none;
+    border-radius: 80px;
+    width:350px ;
+    height: 500px;
+    align-items: center;
+    
+}
+.plus{
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+}
+#up{
+font-size: 45px;
+color: #482929;
+}
+#p{
+    font-size: 25px;
+    color: rgb(176, 106, 112);
+}
+#ss{
+font-size: 20px;
+color: #482929;
+}
+.size{
+    border: solid;
+    border-radius: 40px;
+    border-color: rgb(176, 106, 112);
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+    background-color: #faedef;
+    width: 335px;
+height: 430px;
+}
+#size{
+    font-size: 25px;
+    text-align: center;
+    color: #482929;
+}
+.wl input{
+    display: none;
+}
+.wl{
+    border: solid;
+    display: inline-flex;
+    border-radius: 40px;
+    border-color: rgb(176, 106, 112);
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff
+}
+.xs{
+    color: #482929;
+}
+.ssl{
+    border: solid;
+    display: inline-flex;
+    border-radius: 40px;
+    border-color: rgb(176, 106, 112);
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+}
+.ssl input{
+    display: none;
+}
+.s{
+    color:#482929;
+}
+.ml{
+    border: solid;
+    display: inline-flex;
+    border-radius: 40px;
+    border-color: rgb(176, 106, 112);
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+}
+.ml input{
+    display: none;
+}
+.m{
+    color: #482929;
+}
+.ll{
+    border: solid;
+    display: inline-flex;
+    border-radius: 40px;
+    border-color: rgb(176, 106, 112);
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+}
+.ll input{
+    display: none;
+}
+.l{
+    color: #482929;
+}
+.xll{
+    border: solid;
+    display: inline-flex;
+    border-radius: 40px;
+    border-color: rgb(176, 106, 112);
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+}
+.xll input{
+    display: none;
+}
+.xl{
+    color:#482929;
+}
+.xxll{
+    border: solid;
+    display: inline-flex;
+    border-radius: 40px;
+    border-color: rgb(176, 106, 112);
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+}
+.xxll input{
+    display: none;
+}
+.xxl{
+    color: #482929;
+}
+.www{
+    color: #482929;
+}
+.ord{
+background-color: rgb(230, 201, 207);
+width: 400px;
+padding: 10px;
+margin: 30px auto;
+text-align: center;
+border-radius: 40px;
+border: solid;
+border-color: #482929;
+height: 70px;
+}
+.order{text-decoration: none;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 100px;
+    font-size: 30px;
+    color: #482929;
+    border: solid;
+    border-color:   rgb(230, 201, 207);
+    background-color: rgb(230, 201, 207);
+}
+#co{
+    color: #482929;
+    font-size: 25px;
+}
+.color{
+  padding:20px;
+  margin: 10px;
+}
+.colors{
+  display:flex;
+  gap:20px;
+  align-items:center;
+}
+.colors input{
+  display:none;
+}
+.colors label{
+  width:35px;
+  height:35px;
+  border-radius:50%;
+  display:inline-block;
+  border:2px solid transparent;
+}
+.white{
+  background:#eae4e4;
+  border:3px solid #7a2532 !important;
+}
+.brown{
+  background:#151518;
+}
+.babyblue{
+  background:#b4af9b;
+}
+.black{
+  background:#043616;
+}
+.burgundy{
+    background-color: #800020;
+}
+.habiba .br, 
+.habiba .df a{
+    display: inline-block; 
+    transition: transform 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}
